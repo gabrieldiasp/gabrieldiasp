@@ -1,0 +1,4 @@
+- 👋 Oi, eu sou @gabrieldiasp
+- 👀 Estou interessado em desenvolvimento back-end.
+- 🌱 Atualmente venho estudando Java.
+- 📫 LinkedIn - https://www.linkedin.com/in/gabriel-pereira-4623a2210/
